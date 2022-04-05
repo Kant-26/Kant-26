@@ -7,3 +7,8 @@
     <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram"/>
   </a>
 </div>
+<div id="badges">
+  <a href="https://t.me/denis61157">
+    <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram"/>
+  </a>
+</div>
